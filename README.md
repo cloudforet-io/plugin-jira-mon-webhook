@@ -1,2 +1,2 @@
 # plugin-jira-mon-webhook
-JIRA Webhook Plugin
+Webhook for jira
